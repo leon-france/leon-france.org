@@ -1,0 +1,28 @@
+enable  : true
+topTitle: CE QUE NOUS FAISONS
+title   : Nos projets en cours
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Rien
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 2
+    icon    : tf-ion-ios-alarm-outline
+    title   : Encore rien
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 3
+    icon    : tf-ion-ios-email-outline
+    title   : Trois fois rien
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 4
+    icon    : tf-ion-ios-locked-outline
+    title   : Toujours rien
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
